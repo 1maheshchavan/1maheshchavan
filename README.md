@@ -5,9 +5,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1maheshchavan&label=Profile%20views&color=0e75b6&style=flat" alt="1maheshchavan" /> </p>
 
-- 👨‍💻 Personal - [https://maheshchavan.vercel.app/](https://maheshchavan.vercel.app/)
+## 💼 Professional Experience
+- **Full Stack Mern Developer** at TechRel Technologies Pvt. Ltd. 01/2024 - 06/2024
+  - Proficient in a variety of technologies, including:
+    - **Frontend:** HTML, CSS, JavaScript, React js
+    - **Backend:** Node.js
+    - **Database:** MongoDB, MySQL
+    - **Framework:** Express.js
+- **React js Developer** at Mind Prabha Technologies Pvt.Ltd. 07/2024 - 9/2024
+  - Proficient in a variety of technologies, including:
+    - **Frontend:** HTML, CSS, JavaScript, React js, Bootstrap
+   
+## 🚀 Tech Stack
 
-- 📫 How to reach me **maheshchavan9246@gmail.com**
+Here's a snapshot of my tech stack:
+
+- **Frontend:** HTML, CSS, JavaScript, React js, Bootstrap, Typescript
+- **Backend:** Node.js
+- **Database:** MongoDB, MySQL
+- **Framework:** Express.js
+
+👨‍💻 Personal - [https://maheshchavan.vercel.app/](https://maheshchavan.vercel.app/)
+
+## 🌱 Always Learning
+
+I believe in the power of continuous learning, keeping up with the latest technologies, and exploring new frameworks to enhance my skill set.
+
+## 📫 How to Reach Me
+
+Questions or collaborations? Feel free to contact me at maheshchavan9246@gmail.com 📧.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +49,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1maheshchavan&show_icons=true&locale=en&layout=compact" alt="1maheshchavan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1maheshchavan&show_icons=true&locale=en" alt="1maheshchavan" /></p>
+
+Thanks for stopping by my GitHub profile! Happy coding! 🚀
