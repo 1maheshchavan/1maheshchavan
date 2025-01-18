@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
 <h3 align="center">Experienced in working across both front-end and back-end development processes, with 9 months of hands-on experience in delivering high-quality software solutions. Highly skilled in programming, design, development, and implementation of functional specifications to create robust and efficient systems. Proven ability to work collaboratively in a team environment while delivering projects within tight deadlines.</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7txijfhsmYWIgzwFmVvOmuPHav6wpYNRrhw&s">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1maheshchavan&label=Profile%20views&color=0e75b6&style=flat" alt="1maheshchavan" /> </p>
+<img align="right" alt="coding" width="500" height="400" src="https://github.com/1maheshchavan/1maheshchavan/blob/main/on.gif">
 
 ## 💼 Professional Experience
 - **Full Stack Mern Developer** at TechRel Technologies Pvt. Ltd. 01/2024 - 06/2024
