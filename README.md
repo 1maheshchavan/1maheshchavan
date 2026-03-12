@@ -4,15 +4,39 @@
 <img align="right" alt="coding" width="300" height="300" src="https://github.com/1maheshchavan/1maheshchavan/blob/main/on.gif">
 
 ## 💼 Professional Experience
-- **Full Stack Mern Developer** at TechRel Technologies Pvt. Ltd. 01/2024 - 06/2024
-  - Proficient in a variety of technologies, including:
-    - **Frontend:** HTML, CSS, JavaScript, React js
-    - **Backend:** Node.js
-    - **Database:** MongoDB, MySQL
-    - **Framework:** Express.js
-- **React js Developer** at Mind Prabha Technologies Pvt.Ltd. 07/2024 - 9/2024
-  - Proficient in a variety of technologies, including:
-    - **Frontend:** HTML, CSS, JavaScript, React js, Bootstrap
+Full Stack Developer
+Technocipher Pvt. Ltd., Warje, Pune
+Duration: 2024 – Present (2.1 Years)
+
+Worked on end-to-end web application development including requirement analysis, design, development, testing, and deployment.
+
+Developed scalable frontend applications using React.js with reusable components and optimized state management.
+
+Built RESTful APIs using Node.js and Express.js for efficient backend services.
+
+Implemented authentication and authorization using JWT with role-based access control.
+
+Integrated MongoDB and MySQL databases with efficient schema design and optimized queries.
+
+Collaborated with UI/UX designers, QA teams, and project managers to ensure timely project delivery.
+
+Key Project: Perception – Online Examination System
+
+Developed and maintained a secure and scalable online examination platform.
+
+Implemented Admin, Examiner, and Candidate roles with role-based access control and secure authentication.
+
+Built modules for exam creation, question bank management, timed exams, automated evaluation, and result generation.
+
+Designed responsive and user-friendly interfaces using React.js and Bootstrap.
+
+Developed backend services using Node.js and Express.js with MongoDB integration.
+
+Optimized system performance to handle multiple concurrent users.
+
+Integrated AI-based features such as automated question suggestions, intelligent result insights, and basic chatbot support using external AI APIs.
+
+Added analytics dashboards and real-time exam monitoring features to improve usability.
    
 ## 🚀 Tech Stack
 
