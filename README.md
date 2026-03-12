@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
-<h3 align="center">Experienced in working across both front-end and back-end development processes, with 9 months of hands-on experience in delivering high-quality software solutions. Highly skilled in programming, design, development, and implementation of functional specifications to create robust and efficient systems. Proven ability to work collaboratively in a team environment while delivering projects within tight deadlines.</h3>
+<h3 align="center">Full Stack Developer with 2.1 years of professional experience in designing, developing, and deploying
+scalable web applications using the MERN stack. Strong hands-on experience with React.js, Node.js,
+Express.js, RESTful APIs, database integration, and performance optimization. Experience integrating
+modern AI-powered features and building responsive, user-focused applications in agile environments.</h3>
 
 <img align="right" alt="coding" width="300" height="300" src="https://github.com/1maheshchavan/1maheshchavan/blob/main/on.gif">
 
