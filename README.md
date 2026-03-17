@@ -45,11 +45,13 @@ Added analytics dashboards and real-time exam monitoring features to improve usa
 
 Here's a snapshot of my tech stack:
 
-Frontend: React.js, JavaScript, HTML5, CSS3, Bootstrap
-Backend: Node.js, Express.js
-Databases: MongoDB, MySQL
-Tools: Git, REST APIs, VS Code
-Concepts: SDLC, Agile Methodology, MVC Architecture
+• Frontend: React.js, JavaScript, Typescript, HTML5, CSS3, Bootstrap
+• Backend: Node.js, Express.js
+• Databases: MongoDB, MySQL
+• DevOps & Cloud: AWS (EC2, S3 Basics), CI/CD, GitHub Actions
+• Networking: HTTP/HTTPS, DNS, Basic Networking Concepts
+• Tools: Git, REST APIs, Postman, VS Code
+• Concepts: SDLC, Agile Methodology, MVC Architecture
 
 👨‍💻 Personal - [https://maheshchavan.vercel.app/](https://maheshchavan.vercel.app/)
 
