@@ -45,12 +45,19 @@ Added analytics dashboards and real-time exam monitoring features to improve usa
 
 Here's a snapshot of my tech stack:
 
-• Frontend: React.js, JavaScript, Typescript, HTML5, CSS3, Bootstrap
+• Frontend: React.js, Angular, Vue.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind
+CSS, Bootstrap
+• State Management: Redux, Context API
 • Backend: Node.js, Express.js
 • Databases: MongoDB, MySQL
+• API & Integration: REST APIs, API Handling, AJAX
 • DevOps & Cloud: AWS (EC2, S3 Basics), CI/CD, GitHub Actions
+• Tools & Version Control: Git, GitHub, Postman, VS Code
+• UI/UX & Design: Responsive Design, UI/UX Principles
+• Testing & Debugging: Debugging, Performance Optimization
+• Security: Authentication, Authorization, Secure Coding Practices
+• Real-Time Features: WebSockets, Live Updates (Basic)
 • Networking: HTTP/HTTPS, DNS, Basic Networking Concepts
-• Tools: Git, REST APIs, Postman, VS Code
 • Concepts: SDLC, Agile Methodology, MVC Architecture
 
 👨‍💻 Personal - [https://maheshchavan.vercel.app/](https://maheshchavan.vercel.app/)
