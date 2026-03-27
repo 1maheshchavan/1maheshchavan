@@ -1,45 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
-<h3 align="center">Full Stack Developer with 2.1 years of professional experience in designing, developing, and deploying
-scalable web applications using the MERN stack. Strong hands-on experience with React.js, Node.js,
-Express.js, RESTful APIs, database integration, and performance optimization. Experience integrating
-modern AI-powered features and building responsive, user-focused applications in agile environments.</h3>
+<h3 align="center">Full Stack Developer with 2.1 years of professional experience in designing, developing, and
+deploying scalable web applications using the MERN stack. Strong hands-on experience with
+React.js, Node.js, Express.js, RESTful APIs, database integration, and performance optimization.
+Additionally skilled in TypeScript, Angular, Vue.js, and Next.js with modern state management
+using Redux and Context API. Experienced in API handling, AJAX, UI/UX design principles, and
+building secure, high-performance applications. Proficient in implementing real-time features and
+integrating modern AI-based functionalities to deliver intelligent and scalable solutions.</h3>
 
 <img align="right" alt="coding" width="300" height="300" src="https://github.com/1maheshchavan/1maheshchavan/blob/main/on.gif">
 
 ## 💼 Professional Experience
 Full Stack Developer
 Technocipher Pvt. Ltd., Warje, Pune
-Duration: 2024 – Present (2.1 Years)
+Duration: 2024 – Present (2.2 Years)
 
-Worked on end-to-end web application development including requirement analysis, design, development, testing, and deployment.
+• Worked on end-to-end web application development including requirement analysis, design,
+development, testing, and deployment.
+• Developed scalable frontend applications using React.js with reusable components and optimized
+state management.
+• Built RESTful backend services using Node.js and Express.js.
+• Implemented authentication and authorization using JWT and role-based access control.
+• Integrated MongoDB and MySQL databases with efficient schema design and query optimization.
+• Collaborated with UI/UX designers, QA teams, and project managers for timely delivery.
 
-Developed scalable frontend applications using React.js with reusable components and optimized state management.
+Project: Perception – Online Examination System
+• Developed a secure and scalable online examination platform for managing digital exams.
+• Implemented Admin, Examiner, and Candidate modules with role-based access control.
+• Built features for exam creation, question bank management, scheduled exams, and automated
+result generation.
+• Developed responsive user interfaces using React.js and Bootstrap.
+• Designed REST APIs using Node.js and Express.js and integrated MongoDB database.
+• Added analytics dashboards and real-time monitoring for exam performance.
+• Integrated AI-based features like automated question suggestions and intelligent result insights.
 
-Built RESTful APIs using Node.js and Express.js for efficient backend services.
+Project: E-Commerce Online Shopping System
+• Developed an online shopping platform with product listing, cart, and order management features.
+• Implemented user authentication, product catalog management, and checkout functionality.
+• Built responsive UI using React.js, HTML, CSS, and Bootstrap.
+• Developed backend APIs using Node.js and Express.js for handling product and order data.
+• Integrated database operations using MongoDB/MySQL for storing users, products, and
+transactions.
+• Improved performance with optimized queries and efficient API handling.
 
-Implemented authentication and authorization using JWT with role-based access control.
-
-Integrated MongoDB and MySQL databases with efficient schema design and optimized queries.
-
-Collaborated with UI/UX designers, QA teams, and project managers to ensure timely project delivery.
-
-Key Project: Perception – Online Examination System
-
-Developed and maintained a secure and scalable online examination platform.
-
-Implemented Admin, Examiner, and Candidate roles with role-based access control and secure authentication.
-
-Built modules for exam creation, question bank management, timed exams, automated evaluation, and result generation.
-
-Designed responsive and user-friendly interfaces using React.js and Bootstrap.
-
-Developed backend services using Node.js and Express.js with MongoDB integration.
-
-Optimized system performance to handle multiple concurrent users.
-
-Integrated AI-based features such as automated question suggestions, intelligent result insights, and basic chatbot support using external AI APIs.
-
-Added analytics dashboards and real-time exam monitoring features to improve usability.
    
 ## 🚀 Tech Stack
 
@@ -59,6 +61,12 @@ CSS, Bootstrap
 • Real-Time Features: WebSockets, Live Updates (Basic)
 • Networking: HTTP/HTTPS, DNS, Basic Networking Concepts
 • Concepts: SDLC, Agile Methodology, MVC Architecture
+
+SOFT SKILLS
+• Problem Solving
+• Team Collaboration
+• Communication
+• Time Management
 
 👨‍💻 Personal - [https://maheshchavan.vercel.app/](https://maheshchavan.vercel.app/)
 
