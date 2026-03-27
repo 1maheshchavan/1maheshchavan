@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
-<h3 align="center">Full Stack Developer with 2.1 years of professional experience in designing, developing, and
+<h3 align="center">Full Stack Developer with 2.2 years of professional experience in designing, developing, and
 deploying scalable web applications using the MERN stack. Strong hands-on experience with
 React.js, Node.js, Express.js, RESTful APIs, database integration, and performance optimization.
 Additionally skilled in TypeScript, Angular, Vue.js, and Next.js with modern state management
