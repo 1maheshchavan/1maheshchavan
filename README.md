@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
-<h3 align="center">Full Stack Developer with 2.2 years of professional experience in designing, developing, and
+<h3 align="center">Full Stack Developer with 3.1 years of professional experience in designing, developing, and
 deploying scalable web applications using the MERN stack. Strong hands-on experience with
 React.js, Node.js, Express.js, RESTful APIs, database integration, and performance optimization.
 Additionally skilled in TypeScript, Angular, Vue.js, and Next.js with modern state management
@@ -12,7 +12,7 @@ integrating modern AI-based functionalities to deliver intelligent and scalable 
 ## 💼 Professional Experience
 Full Stack Developer
 Technocipher Pvt. Ltd., Warje, Pune
-Duration: 2024 – Present (2.2 Years)
+Duration: 2023 – Present (3.1 Years)
 
 • Worked on end-to-end web application development including requirement analysis, design,
 development, testing, and deployment.
