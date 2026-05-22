@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
 <h3 align="center">
-Full Stack Developer with 3.1+ years of experience in building scalable, high-performance web applications using the MERN stack.
+Full Stack Developer with 3.2+ years of experience in building scalable, high-performance web applications using the MERN stack.
 </h3>
 
 <p align="center">
