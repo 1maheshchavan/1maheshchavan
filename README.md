@@ -15,7 +15,7 @@ Passionate about creating efficient, secure, and user-friendly applications with
 
 **Full Stack Developer**  
 **Technocipher Pvt. Ltd., Warje, Pune**  
-📅 *2023 – Present (3.1 Years)*  
+📅 *2023 – Present (3.2 Years)*  
 
 - Developed end-to-end web applications (requirement analysis → deployment)
 - Built scalable frontend apps using **React.js** with reusable components
