@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
 <h3 align="center">
-Full Stack Developer with 3.2+ years of experience in building scalable, high-performance web applications using the MERN stack.
+Full Stack Developer with 4+ years of experience in building scalable, high-performance web applications using the MERN stack.
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Passionate about creating efficient, secure, and user-friendly applications with
 
 **Full Stack Developer**  
 **Technocipher Pvt. Ltd., Warje, Pune**  
-📅 *2023 – Present (3.2 Years)*  
+📅 *2022 – Present (4+ Years)*  
 
 - Developed end-to-end web applications (requirement analysis → deployment)
 - Built scalable frontend apps using **React.js** with reusable components
