@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chavan</h1>
 <h3 align="center">
-Full Stack Developer with 4+ years of experience in building scalable, high-performance web applications using the MERN stack.
+Full Stack Developer with 4+ years of experience designing, developing, and deploying scalable cloud-native and enterprise applications using React.js, Node.js, .NET Core, Microsoft Azure, and AI-enabled technologies.
 </h3>
-
 <p align="center">
 Passionate about creating efficient, secure, and user-friendly applications with modern technologies and AI-driven solutions.
 </p>
@@ -12,88 +11,94 @@ Passionate about creating efficient, secure, and user-friendly applications with
 ---
 
 ## 💼 Professional Experience
+### Full Stack Developer
+Technocipher Pvt. Ltd.
+📅 March 2022 – Present
 
-**Full Stack Developer**  
-**Technocipher Pvt. Ltd., Warje, Pune**  
-📅 *2022 – Present (4+ Years)*  
-
-- Developed end-to-end web applications (requirement analysis → deployment)
-- Built scalable frontend apps using **React.js** with reusable components
-- Designed and developed **RESTful APIs** using **Node.js & Express.js**
-- Implemented **JWT authentication** and role-based access control
-- Integrated **MongoDB & MySQL** with optimized schema and queries
-- Collaborated with UI/UX, QA, and product teams for timely delivery
-
----
-
-## 📌 Projects
-
-### 🧠 Perception – Online Examination System
-- Built a secure digital examination platform
-- Implemented **Admin, Examiner, Candidate modules**
-- Features: Exam creation, scheduling, result automation
-- Developed responsive UI using **React.js & Bootstrap**
-- Designed backend APIs with **Node.js & Express**
-- Integrated **MongoDB database**
-- Added **analytics dashboard & real-time monitoring**
-- Implemented **AI-based features**:
-  - Automated question suggestions  
-  - Intelligent result insights  
+• Designed and developed scalable enterprise applications using React.js, Node.js, Express.js, .NET Core Web APIs, and Microsoft Azure.
+• Built and maintained 25+ secure REST APIs supporting authentication, authorization, and business workflows.
+• Implemented JWT Authentication and Role-Based Access Control (RBAC).
+• Developed Azure cloud solutions using Azure App Services, Azure Functions, Azure SQL, Azure Storage, and Azure Cosmos DB.
+• Built AI-enabled application features using Azure AI Search, RAG, Semantic Search, Vector Search, and Prompt Engineering.
+• Implemented CI/CD pipelines using GitHub Actions.
+• Optimized MongoDB, Azure SQL, and MySQL databases.
+• Worked in Agile teams with architects, QA engineers, UI/UX designers, and stakeholders.
 
 ---
 
-### 🛒 E-Commerce Online Shopping System
-- Developed a full-featured shopping platform
-- Features: Product listing, cart, order management
-- Implemented secure **user authentication & checkout**
-- Built responsive UI using **React, HTML, CSS, Bootstrap**
-- Developed backend APIs using **Node.js & Express**
-- Integrated **MongoDB & MySQL**
-- Optimized performance with efficient queries & API handling
+## 🚀 Projects
+
+### AI-Based Online Examination System
+
+• Developed a scalable online examination platform using React.js, Node.js, .NET Core, Microsoft Azure, JWT Authentication, and RBAC.
+• Implemented secure REST APIs, cloud deployment, monitoring, and database optimization.
+
+---
+
+### AI-Enabled E-Commerce Platform
+
+• Developed a full-stack e-commerce application with AI-powered semantic product search using Azure AI Search and RAG.
+• Built scalable REST APIs with secure authentication and deployed the application using Microsoft Azure and CI/CD pipelines.
+
+---
+
+### Real-Time Chat Application
+
+• Built a real-time messaging application using React.js, Node.js, Express.js, and Socket.io.
+• Implemented authentication, user presence tracking, and low-latency event-driven communication.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Frontend
-React.js, Angular, Vue.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+### Frontend
+React.js
+TypeScript
+JavaScript
+HTML5
+CSS3
+Tailwind CSS
+Redux Toolkit
 
-### 🔄 State Management
-Redux, Context API
+### Backend
+Node.js
+Express.js
+.NET Core Web API
+C#
 
-### ⚙️ Backend
-Node.js, Express.js
+### Databases
+MongoDB
+Azure SQL
+Azure Cosmos DB
+MySQL
 
-### 🗄️ Databases
-MongoDB, MySQL
+### Cloud & DevOps
+Microsoft Azure
+Azure App Services
+Azure Functions
+Azure Storage
+GitHub Actions
+CI/CD
+Docker
+Git
 
-### 🔗 API & Integration
-REST APIs, AJAX, API Handling
+### AI
+Azure AI Search
+Retrieval-Augmented Generation (RAG)
+Semantic Search
+Vector Search
+Prompt Engineering
+Python (AI Workflows)
 
-### ☁️ DevOps & Cloud
-AWS (EC2, S3 Basics), CI/CD, GitHub Actions
-
-### 🛠️ Tools
-Git, GitHub, Postman, VS Code
-
-### 🎨 UI/UX
-Responsive Design, UI/UX Principles
-
-### 🧪 Testing & Debugging
-Debugging, Performance Optimization
-
-### 🔐 Security
-Authentication, Authorization, Secure Coding Practices
-
-### ⚡ Real-Time
-WebSockets, Live Updates (Basic)
-
-### 🌐 Networking
-HTTP/HTTPS, DNS, Basic Networking
-
-### 🧠 Concepts
-SDLC, Agile Methodology, MVC Architecture
-
+### Engineering
+REST APIs
+Microservices
+JWT
+RBAC
+System Design
+Agile
+DevSecOps
+Observability
 ---
 
 ## 💡 Soft Skills
@@ -105,21 +110,21 @@ SDLC, Agile Methodology, MVC Architecture
 
 ---
 
-## 🌐 Portfolio
+## 🌱 Currently Learning
 
-🔗 [https://maheshchavan.vercel.app/](https://maheshchavan.vercel.app/)
-
----
-
-## 🌱 Always Learning
-
-Continuously exploring new technologies, frameworks, and AI integrations to build smarter and more scalable applications.
+• Azure AI Foundry
+• AI-102 (Preparation)
+• AZ-204 (Preparation)
+• Semantic Kernel
+• Enterprise AI Applications
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 maheshchavan9246@gmail.com  
+Email: maheshchavan9246@gmail.com
+LinkedIn:
+https://www.linkedin.com/in/mahesh-chavan-2a6b99249
 
 ---
 
@@ -143,41 +148,6 @@ Continuously exploring new technologies, frameworks, and AI integrations to buil
 
 ---
 
-## 🛠️ Languages and Tools
+⭐ Thanks for visiting my GitHub profile!
 
-<p align="center" style="white-space: nowrap; overflow-x: auto;">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-
-</p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile! Happy Coding 🚀</p>
+I'm always open to collaborating on Full Stack, Cloud, Azure, and AI-powered application development projects.
